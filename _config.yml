@@ -15,7 +15,7 @@ title: "Eduardo Reis"
 description: "I'm a radiologist turned an AI researcher. Love working with AI, aiming to contribute (at least a bit) to AGI."
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "/about"
+baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://edreismd.github.io"
