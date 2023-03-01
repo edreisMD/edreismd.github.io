@@ -2,7 +2,6 @@
 layout: page
 title: Home
 description: Personal Website
-feature_image: images/edu_face.jpg
 ---
 
 I'm a radiologist turned an AI researcher.
