@@ -12,7 +12,7 @@ lang: en-US
 title: "Eduardo Reis"
 
 # A description of your site for meta tag, search engine results.
-description: "Personal website. Eduardo Reis, AI researcher, Neuroradiologist."
+description: "I'm a radiologist turned an AI researcher. Love working with AI, aiming to contribute (at least a bit) to AGI."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -28,7 +28,7 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: About
     url: /
   - text: Blog
     url: /blog
