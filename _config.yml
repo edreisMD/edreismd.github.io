@@ -12,7 +12,25 @@ lang: en-US
 title: "Eduardo Reis"
 
 # A description of your site for meta tag, search engine results.
-description: "I'm a radiologist turned an AI researcher. Love working with AI. Aiming to contribute (at least a bit) to AGI."
+description: """
+I’m a radiologist turned an AI researcher.
+\n
+\n
+Currently I’m a visiting scholar at Stanford AIMI Center, working in the intersection of Artificial Intelligence and Medicine.
+\n
+\n
+I love working in AI! My ultimate purpose is to significantly contribute to the “discovery” of intelligence (even if I can just be an example of a rational being). Our best chance to understand intelligence is by creating AGI. Lets work together as a society to do that in a way that we will not regret.
+\n
+\n
+Published BRAX, the Brazilian Chest X-ray Dataset
+Open-sourced the PyTorch implementation of ConVIRT - contrastive learning for radiology images and text (before CLIP)
+Released Brain Hemorrhage Annotations - Brain Hemorrhage Extended - BHX
+At Hospital Israelita Albert Einstein:
+\n
+\n
+Started the Health Story project, a medical history timeline to support research and a more personalized clinical practice
+Ran the development of AI algorithms for diseases of national importance: Tuberculosis, COVID, Melanoma and Head CT
+"""
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
