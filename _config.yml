@@ -28,10 +28,10 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: About
-    url: /about
-  - text: Blog
-    url: /
+  # - text: About
+  #   url: /about
+  # - text: Blog
+  #   url: /
   # - text: Style Guide
   #   url: /style-guide/
   # - text: Tags
