@@ -20,6 +20,11 @@
       </ul><!-- .menu -->
       <button id="menu-close" class="menu-toggle"><span class="screen-reader-text">Close Menu</span><span
           class="icon-close" aria-hidden="true"></span></button>
+      <div class="offsite-links">
+        {% if site.footer.has_social %}
+          {% include social.html %}
+        {% endif %}
+      </div><!-- .offsite-links -->
     </div><!-- .site-navigation-wrap -->
   </nav><!-- .site-navigation -->
   <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
